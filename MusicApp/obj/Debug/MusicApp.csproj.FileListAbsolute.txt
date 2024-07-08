@@ -1,0 +1,11 @@
+C:\Users\abc\source\repos\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.AssemblyReference.cache
+C:\Users\abc\source\repos\MusicApp\MusicApp\obj\Debug\UserControls\Playlist.baml
+C:\Users\abc\source\repos\MusicApp\MusicApp\obj\Debug\UserControls\PopularSong.baml
+C:\Users\abc\source\repos\MusicApp\MusicApp\obj\Debug\UserControls\SongItem.baml
+C:\Users\abc\source\repos\MusicApp\MusicApp\obj\Debug\MainWindow.g.cs
+C:\Users\abc\source\repos\MusicApp\MusicApp\obj\Debug\UserControls\Playlist.g.cs
+C:\Users\abc\source\repos\MusicApp\MusicApp\obj\Debug\UserControls\PopularSong.g.cs
+C:\Users\abc\source\repos\MusicApp\MusicApp\obj\Debug\UserControls\SongItem.g.cs
+C:\Users\abc\source\repos\MusicApp\MusicApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\abc\source\repos\MusicApp\MusicApp\obj\Debug\MusicApp_MarkupCompile.cache
+C:\Users\abc\source\repos\MusicApp\MusicApp\obj\Debug\MusicApp_MarkupCompile.lref
